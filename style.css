@@ -1,5 +1,6 @@
 body {
-width: 400;
+width: 1000;
+margin: auto; 
 }
 
 .nav-link {
@@ -38,6 +39,7 @@ main {
  text-align: center;
  padding: 25px;
  height: auto;
+ margin: auto;
 }
 
 footer {
