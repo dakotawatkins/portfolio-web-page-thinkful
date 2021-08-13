@@ -46,6 +46,7 @@ main {
 
 li {
  width: 200px;
+ align-items: center;
 } 
 
 footer {
