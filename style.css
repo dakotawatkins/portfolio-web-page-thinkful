@@ -10,10 +10,9 @@
 
 
 header {
- color: black;
- background-color: #bfbfbf;
+ color: white;
+ background-color: black;
  text-align: center;
- height: 10px;
  padding: 25px;
 } 
 
@@ -40,6 +39,8 @@ footer {
  color: white;
  background-color: black;
  text-align: center;
+ height: 10px;
+ padding: 25px;
 } 
 
 
