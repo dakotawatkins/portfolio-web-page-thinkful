@@ -30,6 +30,12 @@ header {
  border-style: solid;
 }
 
+main {
+ background-color: #bfbfbf;
+ text-align: center;
+ padding: 25px;
+}
+
 footer {
  color: white;
  background-color: black;
