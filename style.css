@@ -21,7 +21,7 @@ header {
 } 
 
 .portrait {
- max-width: 100%;
+ max-width: 50%;
  width: 25%;
  height: auto;
  display: block;
