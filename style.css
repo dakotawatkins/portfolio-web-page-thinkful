@@ -1,10 +1,7 @@
-body {
- text-align: center;
-} 
 
 .nav-link {
  color: white; 
- item-align: center;
+ text-align: center;
  background-color: black;
  
  height: 10px;
@@ -15,7 +12,7 @@ body {
 header {
  color: black;
  background-color: #bfbfbf;
- item-align: center;
+ text-align: center;
  height: 10px;
  padding: 25px;
 } 
@@ -24,7 +21,7 @@ header {
  max-width: 50%;
  width: 25%;
  height: auto;
- display: block;
+ 
  margin-left: auto;
  margin-right: auto;
  border-radius: 50%;
