@@ -44,6 +44,10 @@ main {
  margin: auto;
 }
 
+li {
+ width: 200px;
+} 
+
 footer {
  color: black;
  background-color: white;
