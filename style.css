@@ -1,8 +1,12 @@
-nav-link {
+.nav-link {
  color: white; 
  text-alaign: center;
  background color: black;
 }
+
+header {
+ color: green;
+} 
 
 
 
