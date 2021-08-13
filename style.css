@@ -46,7 +46,7 @@ main {
 
 .lists {
  width: 200px;
- margin: auto;
+ align-text: center;
 } 
 
 footer {
