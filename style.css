@@ -33,7 +33,11 @@ header {
  border-style: solid;
 }
 
-
+footer {
+ color: white;
+ background-color: black;
+ text-align: center;
+} 
 
 
 
