@@ -1,8 +1,11 @@
+body {
+width: 400;
+}
 
 .nav-link {
  color: white; 
  text-align: center;
- background-color: black;
+ background-color: #666666;
  
  height: 10px;
  padding: 25px;
@@ -11,21 +14,21 @@
 
 header {
  color: white;
- background-color: black;
+ background-color: #666666;
  text-align: center;
  padding: 25px;
  height: auto;
 } 
 
 .portrait {
- max-width: 50%;
+ max-width: 30%;
  width: 25%;
  height: auto;
  
  margin-left: auto;
  margin-right: auto;
  border-radius: 50%;
- border-color: black;
+ border-color: #666666;
  border-width: 10px;
  border-style: solid;
 }
@@ -39,10 +42,11 @@ main {
 
 footer {
  color: white;
- background-color: black;
+ background-color: #666666;
  text-align: center;
  height: 10px;
  padding: 25px;
+ bottom: 0px;
 } 
 
 
