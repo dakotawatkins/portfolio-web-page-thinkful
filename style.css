@@ -2,11 +2,12 @@ body {
 width: 1000px;
 margin: auto; 
 font-family: Arial, Helvetica, sans-serif;
+padding: 15px; 
 }
 
 .nav-link {
  color: #003366; 
- font-size: 25px;
+ font-size: 20px;
  text-align: center;
  background-color: white;
  margin: auto;
@@ -14,7 +15,7 @@ font-family: Arial, Helvetica, sans-serif;
  padding: 25px;
 }
 
-
+/*
 header {
  color: white;
  background-color: #6699cc;
@@ -22,15 +23,15 @@ header {
  padding: 25px;
  height: auto;
 } 
+*/
 
 .portrait {
  max-width: 25%;
  width: 20%;
  height: auto;
- 
  margin-left: auto;
  margin-right: auto;
- border-radius: 20px;
+ border-radius: 15px;
  border-color: #003366;
  border-width: 2px;
  border-style: solid;
