@@ -23,15 +23,15 @@ header {
 } 
 
 .portrait {
- max-width: 30%;
- width: 25%;
+ max-width: 25%;
+ width: 20%;
  height: auto;
  
  margin-left: auto;
  margin-right: auto;
- border-radius: 90%;
+ border-radius: 99%;
  border-color: #6699cc;
- border-width: 10px;
+ border-width: 5px;
  border-style: solid;
 }
 
@@ -45,7 +45,7 @@ main {
 }
 
 .lists {
- width: 200px;
+ width: 150px;
  margin-left: auto;
  margin-right: auto; 
 } 
