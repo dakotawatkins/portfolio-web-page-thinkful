@@ -15,7 +15,9 @@ padding: 15px 50px;
  padding: 25px;
 }
 
-.nav
+nav:hover {
+ color: white;
+}
 
 /*
 header {
