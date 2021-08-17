@@ -1,11 +1,12 @@
 body {
-width: 1000;
+width: 1000px;
 margin: auto; 
 font-family: Arial, Helvetica, sans-serif;
 }
 
 .nav-link {
  color: #003366; 
+ font-size: 25px;
  text-align: center;
  background-color: white;
  margin: auto;
