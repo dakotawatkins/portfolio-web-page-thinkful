@@ -5,7 +5,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .nav-link {
- color: black; 
+ color: 003366; 
  text-align: center;
  background-color: white;
  margin: auto;
@@ -30,12 +30,13 @@ header {
  margin-left: auto;
  margin-right: auto;
  border-radius: 25px;
- border-color: #6699cc;
+ border-color: #003366;
  border-width: 5px;
  border-style: solid;
 }
 
 main {
+ color: 003366;
  font-size: 15px;
  background-color: #bfbfbf;
  text-align: center;
@@ -45,13 +46,14 @@ main {
 }
 
 .lists {
+ color: 003366;
  width: 150px;
  margin-left: auto;
  margin-right: auto; 
 } 
 
 footer {
- color: black;
+ color: 003366;
  background-color: white;
  text-align: center;
  
