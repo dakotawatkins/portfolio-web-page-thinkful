@@ -15,8 +15,13 @@ padding: 15px 50px;
  padding: 25px;
 }
 
+a {
+ color: #003366;
+}
+
 a:hover {
  color: white;
+ background-color: #003366;
 }
 
 /*
